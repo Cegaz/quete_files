@@ -1,0 +1,29 @@
+a {
+	text-decoration: none;
+}
+.margin{
+	margin-left: 43%;
+}
+h3{
+	font-size: 1em;
+}
+img{
+	width: 300px;
+}
+form{
+	margin-left: 30%;
+	border: 1px solid #BBB;
+	border-radius: 10px;
+	padding: 15px;
+}
+label{
+	margin-left: 5px;
+}
+.thumbnail{
+	height: 400px;
+}
+
+.form-block{
+	margin-top: 50px;
+	width: 30%;
+}
